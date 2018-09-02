@@ -1,5 +1,5 @@
 To run the project:
 <br>
-cd mobiquity
+cd mobiquity/
 <br>
 npm start
